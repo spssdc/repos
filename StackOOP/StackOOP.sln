@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StackOOP", "StackOOP.pyproj", "{BF856A87-3E6E-4C2E-8E8F-258B490CE220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF856A87-3E6E-4C2E-8E8F-258B490CE220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF856A87-3E6E-4C2E-8E8F-258B490CE220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC365B6-4637-442E-B35F-E96617D22BE6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\carte\source\repos\Buildings\bin\Debug\net6.0\Buildings.exe
+C:\Users\carte\source\repos\Buildings\bin\Debug\net6.0\Buildings.deps.json
+C:\Users\carte\source\repos\Buildings\bin\Debug\net6.0\Buildings.runtimeconfig.json
+C:\Users\carte\source\repos\Buildings\bin\Debug\net6.0\Buildings.dll
+C:\Users\carte\source\repos\Buildings\bin\Debug\net6.0\Buildings.pdb
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.csproj.AssemblyReference.cache
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.AssemblyInfoInputs.cache
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.AssemblyInfo.cs
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.csproj.CoreCompileInputs.cache
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.dll
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\refint\Buildings.dll
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.pdb
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\Buildings.genruntimeconfig.cache
+C:\Users\carte\source\repos\Buildings\obj\Debug\net6.0\ref\Buildings.dll
